@@ -1,0 +1,37 @@
+.bigred 
+{
+    font-size: 100px;
+    color:red;
+}
+.backgroundColor
+{
+    background-color: black;
+    
+}
+p {
+    color: red;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: purple;
+    font-family: fantasy;
+}
+h2 {
+    color:yellow;
+    font-family: cursive
+}
+h3 {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+img {
+    margin-left: 10%;
+    margin-right: 40%;
+}
